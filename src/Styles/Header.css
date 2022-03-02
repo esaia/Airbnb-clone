@@ -281,6 +281,7 @@ li {
   .slider-section h2 {
     font-size: 20px !important;
     text-align: center;
+    margin-top: -30px !important;
   }
 }
 
@@ -378,7 +379,7 @@ li {
   color: #d47586;
   background-color: white;
   cursor: pointer;
-  margin-top: 100px;
+  margin-top: 50px;
   position: absolute;
 }
 

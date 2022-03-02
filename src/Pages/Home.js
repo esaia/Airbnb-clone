@@ -42,7 +42,9 @@ function Home() {
         />
 
         <h2>Not sure where to go? Perfect.</h2>
-        <button>I am flexible</button>
+        <a href='/search?location=Tbilisi=/startdate=Thu%20Jul%2009%202037%2000:00:00%20GMT+0400%20(Georgia%20Standard%20Time)=/enddate=Thu%20Jul%2016%202037%2000:00:00%20GMT+0400%20(Georgia%20Standard%20Time)=/'>
+          <button>I am flexible</button>
+        </a>
         <div className='div'></div>
       </div>
 
